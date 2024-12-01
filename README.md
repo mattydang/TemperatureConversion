@@ -17,9 +17,9 @@ Used to design layout of website and individual html components.
 
 
 ## Views of Project
+<img width="1434" alt="Screenshot 2024-12-01 at 5 41 39 PM" src="https://github.com/user-attachments/assets/89c35d9c-c43a-4bd0-a31a-d23f0678a83a">
 <img width="1440" alt="Screenshot 2024-12-01 at 5 41 19 PM" src="https://github.com/user-attachments/assets/ad027d6e-6536-49ec-bd29-e21a8e143e72">
 <img width="1435" alt="Screenshot 2024-12-01 at 5 41 30 PM" src="https://github.com/user-attachments/assets/7c9407d2-9bb8-44a4-8f3f-690fde993826">
-<img width="1434" alt="Screenshot 2024-12-01 at 5 41 39 PM" src="https://github.com/user-attachments/assets/89c35d9c-c43a-4bd0-a31a-d23f0678a83a">
 
 ## Author
 - [Anh Vu Dang](https://github.com/mattydang)
